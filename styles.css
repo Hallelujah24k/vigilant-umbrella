@@ -159,3 +159,17 @@ body{
         background-position: center;
     }
 }
+.spreadshirt-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #2dbe60;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background 0.2s;
+    margin-top: 20px;
+}
+.spreadshirt-btn:hover {
+    background-color: #24974c;
+}
