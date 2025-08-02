@@ -23,7 +23,7 @@
     display: block;
     padding: 18px 0;
     color: #fff;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Press Start 2P', Impact, Arial, sans-serif;
     font-size: 18px;
     text-decoration: none;
     transition: color 0.2s;
@@ -44,7 +44,7 @@
     color: rgb(0, 225, 255);
     margin-top: 20px;
     -webkit-text-stroke: 1px black;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Press Start 2P', Impact, Arial, sans-serif;
     font-weight: bold;
 }
 body{
@@ -52,14 +52,14 @@ body{
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
+    font-family: 'Press Start 2P', Impact, Arial, sans-serif;
 }
 .sub-text{
     text-align: center;
     font-size: 15px;
     color: whitesmoke;
-    margin-top: 10px;
-    font-family:press-start-2p, cursive;
-    font-weight:lighter;
+    font-family: 'Press Start 2P', Impact, Arial, sans-serif;
+    font-weight: lighter;
     margin-top: -60px;
 }
 .videos {
@@ -79,7 +79,7 @@ body{
     margin: 20px auto;
     max-width: 800px;
     line-height: 1.6;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Press Start 2P', Impact, Arial, sans-serif;
     -webkit-text-stroke: #000000 1px;;
 }
 #about h1, #about p {
@@ -96,7 +96,7 @@ body{
     font-size: 40px;
     color: #fff;
     margin-top: 20px;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Press Start 2P', Impact, Arial, sans-serif;
     -webkit-text-stroke: 1px black;
 }
 
@@ -162,7 +162,7 @@ body{
 .spreadshirt-btn {
     display: inline-block;
     padding: 12px 24px;
-    background-color: #2dbe60;
+    background-color: #00eeff;
     color: #fff;
     font-weight: bold;
     border-radius: 6px;
@@ -171,5 +171,6 @@ body{
     margin-top: 20px;
 }
 .spreadshirt-btn:hover {
-    background-color: #24974c;
+    background-color: #00eaff;
+    transform: scale(1.05);
 }
