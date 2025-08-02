@@ -52,13 +52,13 @@ body{
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-    font-family: 'Press Start 2P', Impact, Arial, sans-serif;
+    font-family: 'Press Start 2P', Impact;
 }
 .sub-text{
     text-align: center;
     font-size: 15px;
     color: whitesmoke;
-    font-family: 'Press Start 2P', Impact, Arial, sans-serif;
+    font-family: 'Press Start 2P', Impact;
     font-weight: lighter;
     margin-top: -60px;
 }
@@ -79,7 +79,7 @@ body{
     margin: 20px auto;
     max-width: 800px;
     line-height: 1.6;
-    font-family: 'Press Start 2P', Impact, Arial, sans-serif;
+    font-family: 'Press Start 2P', Impact;
     -webkit-text-stroke: #000000 1px;;
 }
 #about h1, #about p {
@@ -96,7 +96,7 @@ body{
     font-size: 40px;
     color: #fff;
     margin-top: 20px;
-    font-family: 'Press Start 2P', Impact, Arial, sans-serif;
+    font-family: 'Press Start 2P', Impact;
     -webkit-text-stroke: 1px black;
 }
 
@@ -163,7 +163,7 @@ body{
     display: inline-block;
     padding: 12px 24px;
     background-color: #00eeff;
-    color: #fff;
+    color: #ffea00;
     font-weight: bold;
     border-radius: 6px;
     text-decoration: none;
